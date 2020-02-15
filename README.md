@@ -4,10 +4,18 @@
 
 A follow-through Angular app based on Angular's Getting Started section.
 
+
+## What to expect in the future?
+
+* Modified Web design (Expect modified CSS, HTML, and JS)
+* Usage of backend server
+
+
 ## References
 
 * [Getting Started with Angular: Your First App](https://angular.io/start)
 * [Ready-made sample Angular project in StackBlitz](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html)
+
 
 ## Technical how-to's
 
